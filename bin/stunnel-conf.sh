@@ -9,7 +9,6 @@ foreground = yes
 
 pid = /app/vendor/stunnel/stunnel4.pid
 
-options = SINGLE_DH_USE
 socket = r:TCP_NODELAY=1
 options = NO_SSLv3
 TIMEOUTidle = 86400
